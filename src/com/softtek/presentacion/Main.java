@@ -8,7 +8,6 @@ public class Main {
 
         System.out.println( num.muestra());
         num.incrementar();
-        num.incrementar();
         System.out.println(num.muestra());
     }
 }
